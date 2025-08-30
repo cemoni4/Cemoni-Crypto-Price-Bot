@@ -1,6 +1,6 @@
 # 🤖 CemoniCryptoBot
 
-[![Telegram](https://img.shields.io/badge/Join%20on%20Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white)]([https://t.me/YourChannel](https://t.me/CemoniCryptoBot))
+[![Telegram](https://img.shields.io/badge/Join%20on%20Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/CemoniCryptoBot)
 
 **CemoniCryptoBot** is a Telegram bot designed for anyone who wants quick and easy access to cryptocurrency data.  
 It runs on **Cloudflare Workers** and leverages the [CoinGecko API](https://www.coingecko.com/) to provide real-time market information.
